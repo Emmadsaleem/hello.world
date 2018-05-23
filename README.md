@@ -1,5 +1,5 @@
 # hello.world
 Hello humans!
 
-Emmadsaleem here! 
+My name is Emmadsaleem. 
 I have a lot of friends, i love them.
